@@ -1,4 +1,3 @@
-alert("click the button to change background color")
 console.log("#"+Math.random().toString(16).slice(3, 9))
 console.log("#"+Math.random().toString(16))
 console.log("#"+Math.random())
